@@ -25,7 +25,7 @@
 </p>
 
 ### Heruko Deploy
-<a href="https://heroku.com/deploy?template=https://github.com/don/Auto-Request-Accept-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/boss/Auto-Request-Accept-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
